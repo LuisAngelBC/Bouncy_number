@@ -28,9 +28,9 @@ print(f"Result: {result}")
 ## Installation
 Clone the repository and run the script:
 ```bash
-git clone https://github.com/yourusername/bouncy-numbers.git
-cd bouncy-numbers
-python bouncy.py
+git clone https://github.com/yourusername/Bouncy-number.git
+cd Bouncy-number
+python Bouncy.py
 ```
 
 ## License
